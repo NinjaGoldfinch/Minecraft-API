@@ -7,7 +7,7 @@
 import json
 
 # Read the JSON file
-with open('/home/ninja/Minecraft-API/items/1.8.9.json') as file:
+with open('~/items/1.8.9.json') as file:
     data = json.load(file)
 
 # Create a new dictionary with attribute name as key name
