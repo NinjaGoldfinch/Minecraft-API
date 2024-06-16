@@ -1,0 +1,3397 @@
+{
+    "stone": {
+        "id": 1,
+        "displayName": "Stone",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Stone"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Granite"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Polished Granite"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Diorite"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Polished Diorite"
+            },
+            {
+                "metadata": 5,
+                "displayName": "Andesite"
+            },
+            {
+                "metadata": 6,
+                "displayName": "Polished Andesite"
+            }
+        ]
+    },
+    "grass": {
+        "id": 2,
+        "displayName": "Grass Block",
+        "stackSize": 64
+    },
+    "dirt": {
+        "id": 3,
+        "displayName": "Dirt",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Dirt"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Coarse Dirt"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Podzol"
+            }
+        ]
+    },
+    "cobblestone": {
+        "id": 4,
+        "displayName": "Cobblestone",
+        "stackSize": 64
+    },
+    "planks": {
+        "id": 5,
+        "displayName": "Wooden Planks",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Oak Wood Planks"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Spruce Wood Planks"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Birch Wood Planks"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Jungle Wood Planks"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Acacia Wood Planks"
+            },
+            {
+                "metadata": 5,
+                "displayName": "Dark Oak Wood Planks"
+            }
+        ]
+    },
+    "sapling": {
+        "id": 6,
+        "displayName": "Sapling",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Oak Sapling"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Spruce Sapling"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Birch Sapling"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Jungle Sapling"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Acacia Sapling"
+            },
+            {
+                "metadata": 5,
+                "displayName": "Dark Oak Sapling"
+            }
+        ]
+    },
+    "bedrock": {
+        "id": 7,
+        "displayName": "Bedrock",
+        "stackSize": 64
+    },
+    "sand": {
+        "id": 12,
+        "displayName": "Sand",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Sand"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Red Sand"
+            }
+        ]
+    },
+    "gravel": {
+        "id": 13,
+        "displayName": "Gravel",
+        "stackSize": 64
+    },
+    "gold_ore": {
+        "id": 14,
+        "displayName": "Gold Ore",
+        "stackSize": 64
+    },
+    "iron_ore": {
+        "id": 15,
+        "displayName": "Iron Ore",
+        "stackSize": 64
+    },
+    "coal_ore": {
+        "id": 16,
+        "displayName": "Coal Ore",
+        "stackSize": 64
+    },
+    "log": {
+        "id": 17,
+        "displayName": "Wood",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Oak Wood"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Spruce Wood"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Birch Wood"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Jungle Wood"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Acacia Wood"
+            },
+            {
+                "metadata": 5,
+                "displayName": "Dark Oak Wood"
+            }
+        ]
+    },
+    "leaves": {
+        "id": 18,
+        "displayName": "Leaves",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Oak Leaves"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Spruce Leaves"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Birch Leaves"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Jungle Leaves"
+            }
+        ]
+    },
+    "sponge": {
+        "id": 19,
+        "displayName": "Sponge",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Sponge"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Wet Sponge"
+            }
+        ]
+    },
+    "glass": {
+        "id": 20,
+        "displayName": "Glass",
+        "stackSize": 64
+    },
+    "lapis_ore": {
+        "id": 21,
+        "displayName": "Lapis Lazuli Ore",
+        "stackSize": 64
+    },
+    "lapis_block": {
+        "id": 22,
+        "displayName": "Lapis Lazuli Block",
+        "stackSize": 64
+    },
+    "dispenser": {
+        "id": 23,
+        "displayName": "Dispenser",
+        "stackSize": 64
+    },
+    "sandstone": {
+        "id": 24,
+        "displayName": "Sandstone",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Sandstone"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Chiseled Sandstone"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Smooth Sandstone"
+            }
+        ]
+    },
+    "noteblock": {
+        "id": 25,
+        "displayName": "Note Block",
+        "stackSize": 64
+    },
+    "golden_rail": {
+        "id": 27,
+        "displayName": "Powered Rail",
+        "stackSize": 64
+    },
+    "detector_rail": {
+        "id": 28,
+        "displayName": "Detector Rail",
+        "stackSize": 64
+    },
+    "sticky_piston": {
+        "id": 29,
+        "displayName": "Sticky Piston",
+        "stackSize": 64
+    },
+    "web": {
+        "id": 30,
+        "displayName": "Cobweb",
+        "stackSize": 64
+    },
+    "tallgrass": {
+        "id": 31,
+        "displayName": "Grass",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Shrub"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Tall Grass"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Fern"
+            }
+        ]
+    },
+    "deadbush": {
+        "id": 32,
+        "displayName": "Dead Bush",
+        "stackSize": 64
+    },
+    "piston": {
+        "id": 33,
+        "displayName": "Piston",
+        "stackSize": 64
+    },
+    "wool": {
+        "id": 35,
+        "displayName": "Wool",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "White Wool"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Orange Wool"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Magenta Wool"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Light blue Wool"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Yellow Wool"
+            },
+            {
+                "metadata": 5,
+                "displayName": "Lime Wool"
+            },
+            {
+                "metadata": 6,
+                "displayName": "Pink Wool"
+            },
+            {
+                "metadata": 7,
+                "displayName": "Gray Wool"
+            },
+            {
+                "metadata": 8,
+                "displayName": "Light gray Wool"
+            },
+            {
+                "metadata": 9,
+                "displayName": "Cyan Wool"
+            },
+            {
+                "metadata": 10,
+                "displayName": "Purple Wool"
+            },
+            {
+                "metadata": 11,
+                "displayName": "Blue Wool"
+            },
+            {
+                "metadata": 12,
+                "displayName": "Brown Wool"
+            },
+            {
+                "metadata": 13,
+                "displayName": "Green Wool"
+            },
+            {
+                "metadata": 14,
+                "displayName": "Red Wool"
+            },
+            {
+                "metadata": 15,
+                "displayName": "Black Wool"
+            }
+        ]
+    },
+    "yellow_flower": {
+        "id": 37,
+        "displayName": "Dandelion",
+        "stackSize": 64
+    },
+    "red_flower": {
+        "id": 38,
+        "displayName": "Poppy",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Poppy"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Blue Orchid"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Allium"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Azure Bluet"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Red Tulip"
+            },
+            {
+                "metadata": 5,
+                "displayName": "Orange Tulip"
+            },
+            {
+                "metadata": 6,
+                "displayName": "White Tulip"
+            },
+            {
+                "metadata": 7,
+                "displayName": "Pink Tulip"
+            },
+            {
+                "metadata": 8,
+                "displayName": "Oxeye Daisy"
+            }
+        ]
+    },
+    "brown_mushroom": {
+        "id": 39,
+        "displayName": "Brown Mushroom",
+        "stackSize": 64
+    },
+    "red_mushroom": {
+        "id": 40,
+        "displayName": "Red Mushroom",
+        "stackSize": 64
+    },
+    "gold_block": {
+        "id": 41,
+        "displayName": "Block of Gold",
+        "stackSize": 64
+    },
+    "iron_block": {
+        "id": 42,
+        "displayName": "Block of Iron",
+        "stackSize": 64
+    },
+    "stone_slab": {
+        "id": 44,
+        "displayName": "Stone Slab",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Stone Slab"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Sandstone Slab"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Wooden Slab"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Cobblestone Slab"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Bricks Slab"
+            },
+            {
+                "metadata": 5,
+                "displayName": "Stone Bricks Slab"
+            },
+            {
+                "metadata": 6,
+                "displayName": "Nether Brick Slab"
+            },
+            {
+                "metadata": 7,
+                "displayName": "Quartz Slab"
+            }
+        ]
+    },
+    "brick_block": {
+        "id": 45,
+        "displayName": "Brick",
+        "stackSize": 64
+    },
+    "tnt": {
+        "id": 46,
+        "displayName": "TNT",
+        "stackSize": 64
+    },
+    "bookshelf": {
+        "id": 47,
+        "displayName": "Bookshelf",
+        "stackSize": 64
+    },
+    "mossy_cobblestone": {
+        "id": 48,
+        "displayName": "Moss Stone",
+        "stackSize": 64
+    },
+    "obsidian": {
+        "id": 49,
+        "displayName": "Obsidian",
+        "stackSize": 64
+    },
+    "torch": {
+        "id": 50,
+        "displayName": "Torch",
+        "stackSize": 64
+    },
+    "mob_spawner": {
+        "id": 52,
+        "displayName": "Monster Spawner",
+        "stackSize": 64
+    },
+    "oak_stairs": {
+        "id": 53,
+        "displayName": "Oak Wood Stairs",
+        "stackSize": 64
+    },
+    "chest": {
+        "id": 54,
+        "displayName": "Chest",
+        "stackSize": 64
+    },
+    "diamond_ore": {
+        "id": 56,
+        "displayName": "Diamond Ore",
+        "stackSize": 64
+    },
+    "diamond_block": {
+        "id": 57,
+        "displayName": "Block of Diamond",
+        "stackSize": 64
+    },
+    "crafting_table": {
+        "id": 58,
+        "displayName": "Crafting Table",
+        "stackSize": 64
+    },
+    "farmland": {
+        "id": 60,
+        "displayName": "Farmland",
+        "stackSize": 64
+    },
+    "furnace": {
+        "id": 61,
+        "displayName": "Furnace",
+        "stackSize": 64
+    },
+    "ladder": {
+        "id": 65,
+        "displayName": "Ladder",
+        "stackSize": 64
+    },
+    "rail": {
+        "id": 66,
+        "displayName": "Rail",
+        "stackSize": 64
+    },
+    "stone_stairs": {
+        "id": 67,
+        "displayName": "Cobblestone Stairs",
+        "stackSize": 64
+    },
+    "lever": {
+        "id": 69,
+        "displayName": "Lever",
+        "stackSize": 64
+    },
+    "stone_pressure_plate": {
+        "id": 70,
+        "displayName": "Stone Pressure Plate",
+        "stackSize": 64
+    },
+    "wooden_pressure_plate": {
+        "id": 72,
+        "displayName": "Wooden Pressure Plate",
+        "stackSize": 64
+    },
+    "redstone_ore": {
+        "id": 73,
+        "displayName": "Redstone Ore",
+        "stackSize": 64
+    },
+    "redstone_torch": {
+        "id": 76,
+        "displayName": "Redstone Torch",
+        "stackSize": 64
+    },
+    "stone_button": {
+        "id": 77,
+        "displayName": "Stone Button",
+        "stackSize": 64
+    },
+    "snow_layer": {
+        "id": 78,
+        "displayName": "Snow",
+        "stackSize": 64
+    },
+    "ice": {
+        "id": 79,
+        "displayName": "Ice",
+        "stackSize": 64
+    },
+    "snow": {
+        "id": 80,
+        "displayName": "Snow",
+        "stackSize": 64
+    },
+    "cactus": {
+        "id": 81,
+        "displayName": "Cactus",
+        "stackSize": 64
+    },
+    "clay": {
+        "id": 82,
+        "displayName": "Clay",
+        "stackSize": 64
+    },
+    "jukebox": {
+        "id": 84,
+        "displayName": "Jukebox",
+        "stackSize": 64
+    },
+    "fence": {
+        "id": 85,
+        "displayName": "Oak Fence",
+        "stackSize": 64
+    },
+    "pumpkin": {
+        "id": 86,
+        "displayName": "Pumpkin",
+        "stackSize": 64
+    },
+    "netherrack": {
+        "id": 87,
+        "displayName": "Netherrack",
+        "stackSize": 64
+    },
+    "soul_sand": {
+        "id": 88,
+        "displayName": "Soul Sand",
+        "stackSize": 64
+    },
+    "glowstone": {
+        "id": 89,
+        "displayName": "Glowstone",
+        "stackSize": 64
+    },
+    "lit_pumpkin": {
+        "id": 91,
+        "displayName": "Jack o'Lantern",
+        "stackSize": 64
+    },
+    "stained_glass": {
+        "id": 95,
+        "displayName": "Stained Glass",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "White Stained Glass"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Orange Stained Glass"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Magenta Stained Glass"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Light Blue Stained Glass"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Yellow Stained Glass"
+            },
+            {
+                "metadata": 5,
+                "displayName": "Lime Stained Glass"
+            },
+            {
+                "metadata": 6,
+                "displayName": "Pink Stained Glass"
+            },
+            {
+                "metadata": 7,
+                "displayName": "Gray Stained Glass"
+            },
+            {
+                "metadata": 8,
+                "displayName": "Light Gray Stained Glass"
+            },
+            {
+                "metadata": 9,
+                "displayName": "Cyan Stained Glass"
+            },
+            {
+                "metadata": 10,
+                "displayName": "Purple Stained Glass"
+            },
+            {
+                "metadata": 11,
+                "displayName": "Blue Stained Glass"
+            },
+            {
+                "metadata": 12,
+                "displayName": "Brown Stained Glass"
+            },
+            {
+                "metadata": 13,
+                "displayName": "Green Stained Glass"
+            },
+            {
+                "metadata": 14,
+                "displayName": "Red Stained Glass"
+            },
+            {
+                "metadata": 15,
+                "displayName": "Black Stained Glass"
+            }
+        ]
+    },
+    "trapdoor": {
+        "id": 96,
+        "displayName": "Wooden Trapdoor",
+        "stackSize": 64
+    },
+    "monster_egg": {
+        "id": 97,
+        "displayName": "Monster Egg",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Stone Monster Egg"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Cobblestone Monster Egg"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Stone Brick Monster Egg"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Mossy Stone Brick Monster Egg"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Cracked Stone Brick Monster Egg"
+            },
+            {
+                "metadata": 5,
+                "displayName": "Chiseled Stone Brick Monster Egg"
+            }
+        ]
+    },
+    "stonebrick": {
+        "id": 98,
+        "displayName": "Stone Bricks",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Stone Bricks"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Mossy Stone Bricks"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Cracked Stone Bricks"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Chiseled Stone Bricks"
+            }
+        ]
+    },
+    "brown_mushroom_block": {
+        "id": 99,
+        "displayName": "Brown Mushroom Block",
+        "stackSize": 64
+    },
+    "red_mushroom_block": {
+        "id": 100,
+        "displayName": "Red Mushroom Block",
+        "stackSize": 64
+    },
+    "iron_bars": {
+        "id": 101,
+        "displayName": "Iron Bars",
+        "stackSize": 64
+    },
+    "glass_pane": {
+        "id": 102,
+        "displayName": "Glass Pane",
+        "stackSize": 64
+    },
+    "melon_block": {
+        "id": 103,
+        "displayName": "Melon",
+        "stackSize": 64
+    },
+    "vine": {
+        "id": 106,
+        "displayName": "Vines",
+        "stackSize": 64
+    },
+    "fence_gate": {
+        "id": 107,
+        "displayName": "Oak Fence Gate",
+        "stackSize": 64
+    },
+    "brick_stairs": {
+        "id": 108,
+        "displayName": "Brick Stairs",
+        "stackSize": 64
+    },
+    "stone_brick_stairs": {
+        "id": 109,
+        "displayName": "Stone Brick Stairs",
+        "stackSize": 64
+    },
+    "mycelium": {
+        "id": 110,
+        "displayName": "Mycelium",
+        "stackSize": 64
+    },
+    "waterlily": {
+        "id": 111,
+        "displayName": "Lily Pad",
+        "stackSize": 64
+    },
+    "nether_brick": {
+        "id": 112,
+        "displayName": "Nether Brick",
+        "stackSize": 64
+    },
+    "nether_brick_fence": {
+        "id": 113,
+        "displayName": "Nether Brick Fence",
+        "stackSize": 64
+    },
+    "nether_brick_stairs": {
+        "id": 114,
+        "displayName": "Nether Brick Stairs",
+        "stackSize": 64
+    },
+    "enchanting_table": {
+        "id": 116,
+        "displayName": "Enchantment Table",
+        "stackSize": 64
+    },
+    "end_portal_frame": {
+        "id": 120,
+        "displayName": "End Portal Frame",
+        "stackSize": 64
+    },
+    "end_stone": {
+        "id": 121,
+        "displayName": "End Stone",
+        "stackSize": 64
+    },
+    "dragon_egg": {
+        "id": 122,
+        "displayName": "Dragon Egg",
+        "stackSize": 64
+    },
+    "redstone_lamp": {
+        "id": 123,
+        "displayName": "Redstone Lamp",
+        "stackSize": 64
+    },
+    "wooden_slab": {
+        "id": 126,
+        "displayName": "Wood Slab",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Oak Wood Slab"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Spruce Wood Slab"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Birch Wood Slab"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Jungle Wood Slab"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Acacia Wood Slab"
+            },
+            {
+                "metadata": 5,
+                "displayName": "Dark Oak Wood Slab"
+            }
+        ]
+    },
+    "sandstone_stairs": {
+        "id": 128,
+        "displayName": "Sandstone Stairs",
+        "stackSize": 64
+    },
+    "emerald_ore": {
+        "id": 129,
+        "displayName": "Emerald Ore",
+        "stackSize": 64
+    },
+    "ender_chest": {
+        "id": 130,
+        "displayName": "Ender Chest",
+        "stackSize": 64
+    },
+    "tripwire_hook": {
+        "id": 131,
+        "displayName": "Tripwire Hook",
+        "stackSize": 64
+    },
+    "emerald_block": {
+        "id": 133,
+        "displayName": "Block of Emerald",
+        "stackSize": 64
+    },
+    "spruce_stairs": {
+        "id": 134,
+        "displayName": "Spruce Wood Stairs",
+        "stackSize": 64
+    },
+    "birch_stairs": {
+        "id": 135,
+        "displayName": "Birch Wood Stairs",
+        "stackSize": 64
+    },
+    "jungle_stairs": {
+        "id": 136,
+        "displayName": "Jungle Wood Stairs",
+        "stackSize": 64
+    },
+    "command_block": {
+        "id": 137,
+        "displayName": "Command Block",
+        "stackSize": 64
+    },
+    "beacon": {
+        "id": 138,
+        "displayName": "Beacon",
+        "stackSize": 64
+    },
+    "cobblestone_wall": {
+        "id": 139,
+        "displayName": "Cobblestone Wall",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Cobblestone Wall"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Mossy Cobblestone Wall"
+            }
+        ]
+    },
+    "wooden_button": {
+        "id": 143,
+        "displayName": "Wooden Button",
+        "stackSize": 64
+    },
+    "anvil": {
+        "id": 145,
+        "displayName": "Anvil",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Anvil"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Slightly Damaged Anvil"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Very Damaged Anvil"
+            }
+        ]
+    },
+    "trapped_chest": {
+        "id": 146,
+        "displayName": "Trapped Chest",
+        "stackSize": 64
+    },
+    "light_weighted_pressure_plate": {
+        "id": 147,
+        "displayName": "Weighted Pressure Plate (Light)",
+        "stackSize": 64
+    },
+    "heavy_weighted_pressure_plate": {
+        "id": 148,
+        "displayName": "Weighted Pressure Plate (Heavy)",
+        "stackSize": 64
+    },
+    "daylight_detector": {
+        "id": 151,
+        "displayName": "Daylight Detector",
+        "stackSize": 64
+    },
+    "redstone_block": {
+        "id": 152,
+        "displayName": "Block of Redstone",
+        "stackSize": 64
+    },
+    "quartz_ore": {
+        "id": 153,
+        "displayName": "Nether Quartz",
+        "stackSize": 64
+    },
+    "hopper": {
+        "id": 154,
+        "displayName": "Hopper",
+        "stackSize": 64
+    },
+    "quartz_block": {
+        "id": 155,
+        "displayName": "Block of Quartz",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Block of Quartz"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Chiseled Quartz Block"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Pillar Quartz Block"
+            }
+        ]
+    },
+    "quartz_stairs": {
+        "id": 156,
+        "displayName": "Quartz Stairs",
+        "stackSize": 64
+    },
+    "activator_rail": {
+        "id": 157,
+        "displayName": "Activator Rail",
+        "stackSize": 64
+    },
+    "dropper": {
+        "id": 158,
+        "displayName": "Dropper",
+        "stackSize": 64
+    },
+    "stained_hardened_clay": {
+        "id": 159,
+        "displayName": "Stained Clay",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "White Stained Clay"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Orange Stained Clay"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Magenta Stained Clay"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Light Blue Stained Clay"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Yellow Stained Clay"
+            },
+            {
+                "metadata": 5,
+                "displayName": "Lime Stained Clay"
+            },
+            {
+                "metadata": 6,
+                "displayName": "Pink Stained Clay"
+            },
+            {
+                "metadata": 7,
+                "displayName": "Gray Stained Clay"
+            },
+            {
+                "metadata": 8,
+                "displayName": "Light Gray Stained Clay"
+            },
+            {
+                "metadata": 9,
+                "displayName": "Cyan Stained Clay"
+            },
+            {
+                "metadata": 10,
+                "displayName": "Purple Stained Clay"
+            },
+            {
+                "metadata": 11,
+                "displayName": "Blue Stained Clay"
+            },
+            {
+                "metadata": 12,
+                "displayName": "Brown Stained Clay"
+            },
+            {
+                "metadata": 13,
+                "displayName": "Green Stained Clay"
+            },
+            {
+                "metadata": 14,
+                "displayName": "Red Stained Clay"
+            },
+            {
+                "metadata": 15,
+                "displayName": "Black Stained Clay"
+            }
+        ]
+    },
+    "stained_glass_pane": {
+        "id": 160,
+        "displayName": "Stained Glass Pane",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "White Stained Glass Pane"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Orange Stained Glass Pane"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Magenta Stained Glass Pane"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Light Blue Stained Glass Pane"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Yellow Stained Glass Pane"
+            },
+            {
+                "metadata": 5,
+                "displayName": "Lime Stained Glass Pane"
+            },
+            {
+                "metadata": 6,
+                "displayName": "Pink Stained Glass Pane"
+            },
+            {
+                "metadata": 7,
+                "displayName": "Gray Stained Glass Pane"
+            },
+            {
+                "metadata": 8,
+                "displayName": "Light Gray Stained Glass Pane"
+            },
+            {
+                "metadata": 9,
+                "displayName": "Cyan Stained Glass Pane"
+            },
+            {
+                "metadata": 10,
+                "displayName": "Purple Stained Glass Pane"
+            },
+            {
+                "metadata": 11,
+                "displayName": "Blue Stained Glass Pane"
+            },
+            {
+                "metadata": 12,
+                "displayName": "Brown Stained Glass Pane"
+            },
+            {
+                "metadata": 13,
+                "displayName": "Green Stained Glass Pane"
+            },
+            {
+                "metadata": 14,
+                "displayName": "Red Stained Glass Pane"
+            },
+            {
+                "metadata": 15,
+                "displayName": "Black Stained Glass Pane"
+            }
+        ]
+    },
+    "leaves2": {
+        "id": 161,
+        "displayName": "Leaves",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Acacia Leaves"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Dark Oak Leaves"
+            }
+        ]
+    },
+    "log2": {
+        "id": 162,
+        "displayName": "Wood",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Acacia Wood"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Dark Oak Wood"
+            }
+        ]
+    },
+    "acacia_stairs": {
+        "id": 163,
+        "displayName": "Acacia Wood Stairs",
+        "stackSize": 64
+    },
+    "dark_oak_stairs": {
+        "id": 164,
+        "displayName": "Dark Oak Wood Stairs",
+        "stackSize": 64
+    },
+    "slime": {
+        "id": 165,
+        "displayName": "Slime Block",
+        "stackSize": 64
+    },
+    "barrier": {
+        "id": 166,
+        "displayName": "Barrier",
+        "stackSize": 64
+    },
+    "iron_trapdoor": {
+        "id": 167,
+        "displayName": "Iron Trapdoor",
+        "stackSize": 64
+    },
+    "prismarine": {
+        "id": 168,
+        "displayName": "Prismarine",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Prismarine"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Prismarine Bricks"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Dark Prismarine"
+            }
+        ]
+    },
+    "sea_lantern": {
+        "id": 169,
+        "displayName": "Sea Lantern",
+        "stackSize": 64
+    },
+    "hay_block": {
+        "id": 170,
+        "displayName": "Hay Bale",
+        "stackSize": 64
+    },
+    "carpet": {
+        "id": 171,
+        "displayName": "Carpet",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "White Carpet"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Orange Carpet"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Magenta Carpet"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Light Blue Carpet"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Yellow Carpet"
+            },
+            {
+                "metadata": 5,
+                "displayName": "Lime Carpet"
+            },
+            {
+                "metadata": 6,
+                "displayName": "Pink Carpet"
+            },
+            {
+                "metadata": 7,
+                "displayName": "Gray Carpet"
+            },
+            {
+                "metadata": 8,
+                "displayName": "Light Gray Carpet"
+            },
+            {
+                "metadata": 9,
+                "displayName": "Cyan Carpet"
+            },
+            {
+                "metadata": 10,
+                "displayName": "Purple Carpet"
+            },
+            {
+                "metadata": 11,
+                "displayName": "Blue Carpet"
+            },
+            {
+                "metadata": 12,
+                "displayName": "Brown Carpet"
+            },
+            {
+                "metadata": 13,
+                "displayName": "Green Carpet"
+            },
+            {
+                "metadata": 14,
+                "displayName": "Red Carpet"
+            },
+            {
+                "metadata": 15,
+                "displayName": "Black Carpet"
+            }
+        ]
+    },
+    "hardened_clay": {
+        "id": 172,
+        "displayName": "Hardened Clay",
+        "stackSize": 64
+    },
+    "coal_block": {
+        "id": 173,
+        "displayName": "Block of Coal",
+        "stackSize": 64
+    },
+    "packed_ice": {
+        "id": 174,
+        "displayName": "Packed Ice",
+        "stackSize": 64
+    },
+    "double_plant": {
+        "id": 175,
+        "displayName": "Large Flowers",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Sunflower"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Lilac"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Double Tallgrass"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Large Fern"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Rose Bush"
+            },
+            {
+                "metadata": 5,
+                "displayName": "Peony"
+            }
+        ]
+    },
+    "red_sandstone": {
+        "id": 179,
+        "displayName": "Red Sandstone",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Red Sandstone"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Chiseled Red Sandstone"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Smooth Red Sandstone"
+            }
+        ]
+    },
+    "red_sandstone_stairs": {
+        "id": 180,
+        "displayName": "Red Sandstone Stairs",
+        "stackSize": 64
+    },
+    "stone_slab2": {
+        "id": 182,
+        "displayName": "Red Sandstone Slab",
+        "stackSize": 64
+    },
+    "spruce_fence_gate": {
+        "id": 183,
+        "displayName": "Spruce Fence Gate",
+        "stackSize": 64
+    },
+    "birch_fence_gate": {
+        "id": 184,
+        "displayName": "Birch Fence Gate",
+        "stackSize": 64
+    },
+    "jungle_fence_gate": {
+        "id": 185,
+        "displayName": "Jungle Fence Gate",
+        "stackSize": 64
+    },
+    "dark_oak_fence_gate": {
+        "id": 186,
+        "displayName": "Dark Oak Fence Gate",
+        "stackSize": 64
+    },
+    "acacia_fence_gate": {
+        "id": 187,
+        "displayName": "Acacia Fence Gate",
+        "stackSize": 64
+    },
+    "spruce_fence": {
+        "id": 188,
+        "displayName": "Spruce Fence",
+        "stackSize": 64
+    },
+    "birch_fence": {
+        "id": 189,
+        "displayName": "Birch Fence",
+        "stackSize": 64
+    },
+    "jungle_fence": {
+        "id": 190,
+        "displayName": "Jungle Fence",
+        "stackSize": 64
+    },
+    "dark_oak_fence": {
+        "id": 191,
+        "displayName": "Dark Oak Fence",
+        "stackSize": 64
+    },
+    "acacia_fence": {
+        "id": 192,
+        "displayName": "Acacia Fence",
+        "stackSize": 64
+    },
+    "iron_shovel": {
+        "id": 256,
+        "displayName": "Iron Shovel",
+        "stackSize": 1,
+        "maxDurability": 250,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "iron_ingot"
+        ]
+    },
+    "iron_pickaxe": {
+        "id": 257,
+        "displayName": "Iron Pickaxe",
+        "stackSize": 1,
+        "maxDurability": 250,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "iron_ingot"
+        ]
+    },
+    "iron_axe": {
+        "id": 258,
+        "displayName": "Iron Axe",
+        "stackSize": 1,
+        "maxDurability": 250,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "iron_ingot"
+        ]
+    },
+    "flint_and_steel": {
+        "id": 259,
+        "displayName": "Flint and Steel",
+        "stackSize": 1,
+        "maxDurability": 64,
+        "enchantCategories": [
+            "breakable",
+            "vanishable"
+        ]
+    },
+    "apple": {
+        "id": 260,
+        "displayName": "Apple",
+        "stackSize": 64
+    },
+    "bow": {
+        "id": 261,
+        "displayName": "Bow",
+        "stackSize": 1,
+        "maxDurability": 384,
+        "enchantCategories": [
+            "breakable",
+            "bow",
+            "vanishable"
+        ]
+    },
+    "arrow": {
+        "id": 262,
+        "displayName": "Arrow",
+        "stackSize": 64
+    },
+    "coal": {
+        "id": 263,
+        "displayName": "Coal",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Coal"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Charcoal"
+            }
+        ]
+    },
+    "diamond": {
+        "id": 264,
+        "displayName": "Diamond",
+        "stackSize": 64
+    },
+    "iron_ingot": {
+        "id": 265,
+        "displayName": "Iron Ingot",
+        "stackSize": 64
+    },
+    "gold_ingot": {
+        "id": 266,
+        "displayName": "Gold Ingot",
+        "stackSize": 64
+    },
+    "iron_sword": {
+        "id": 267,
+        "displayName": "Iron Sword",
+        "stackSize": 1,
+        "maxDurability": 250,
+        "enchantCategories": [
+            "weapon",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "iron_ingot"
+        ]
+    },
+    "wooden_sword": {
+        "id": 268,
+        "displayName": "Wooden Sword",
+        "stackSize": 1,
+        "maxDurability": 59,
+        "enchantCategories": [
+            "weapon",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "oak_planks",
+            "spruce_planks",
+            "birch_planks",
+            "jungle_planks",
+            "acacia_planks",
+            "dark_oak_planks",
+            "crimson_planks",
+            "warped_planks"
+        ]
+    },
+    "wooden_shovel": {
+        "id": 269,
+        "displayName": "Wooden Shovel",
+        "stackSize": 1,
+        "maxDurability": 59,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "oak_planks",
+            "spruce_planks",
+            "birch_planks",
+            "jungle_planks",
+            "acacia_planks",
+            "dark_oak_planks",
+            "crimson_planks",
+            "warped_planks"
+        ]
+    },
+    "wooden_pickaxe": {
+        "id": 270,
+        "displayName": "Wooden Pickaxe",
+        "stackSize": 1,
+        "maxDurability": 59,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "oak_planks",
+            "spruce_planks",
+            "birch_planks",
+            "jungle_planks",
+            "acacia_planks",
+            "dark_oak_planks",
+            "crimson_planks",
+            "warped_planks"
+        ]
+    },
+    "wooden_axe": {
+        "id": 271,
+        "displayName": "Wooden Axe",
+        "stackSize": 1,
+        "maxDurability": 59,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "oak_planks",
+            "spruce_planks",
+            "birch_planks",
+            "jungle_planks",
+            "acacia_planks",
+            "dark_oak_planks",
+            "crimson_planks",
+            "warped_planks"
+        ]
+    },
+    "stone_sword": {
+        "id": 272,
+        "displayName": "Stone Sword",
+        "stackSize": 1,
+        "maxDurability": 131,
+        "enchantCategories": [
+            "weapon",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "cobblestone",
+            "blackstone"
+        ]
+    },
+    "stone_shovel": {
+        "id": 273,
+        "displayName": "Stone Shovel",
+        "stackSize": 1,
+        "maxDurability": 131,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "cobblestone",
+            "blackstone"
+        ]
+    },
+    "stone_pickaxe": {
+        "id": 274,
+        "displayName": "Stone Pickaxe",
+        "stackSize": 1,
+        "maxDurability": 131,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "cobblestone",
+            "blackstone"
+        ]
+    },
+    "stone_axe": {
+        "id": 275,
+        "displayName": "Stone Axe",
+        "stackSize": 1,
+        "maxDurability": 131,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "cobblestone",
+            "blackstone"
+        ]
+    },
+    "diamond_sword": {
+        "id": 276,
+        "displayName": "Diamond Sword",
+        "stackSize": 1,
+        "maxDurability": 1561,
+        "enchantCategories": [
+            "weapon",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "diamond"
+        ]
+    },
+    "diamond_shovel": {
+        "id": 277,
+        "displayName": "Diamond Shovel",
+        "stackSize": 1,
+        "maxDurability": 1561,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "diamond"
+        ]
+    },
+    "diamond_pickaxe": {
+        "id": 278,
+        "displayName": "Diamond Pickaxe",
+        "stackSize": 1,
+        "maxDurability": 1561,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "diamond"
+        ]
+    },
+    "diamond_axe": {
+        "id": 279,
+        "displayName": "Diamond Axe",
+        "stackSize": 1,
+        "maxDurability": 1561,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "diamond"
+        ]
+    },
+    "stick": {
+        "id": 280,
+        "displayName": "Stick",
+        "stackSize": 64
+    },
+    "bowl": {
+        "id": 281,
+        "displayName": "Bowl",
+        "stackSize": 64
+    },
+    "mushroom_stew": {
+        "id": 282,
+        "displayName": "Mushroom Stew",
+        "stackSize": 1
+    },
+    "golden_sword": {
+        "id": 283,
+        "displayName": "Golden Sword",
+        "stackSize": 1,
+        "maxDurability": 32,
+        "enchantCategories": [
+            "weapon",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "gold_ingot"
+        ]
+    },
+    "golden_shovel": {
+        "id": 284,
+        "displayName": "Golden Shovel",
+        "stackSize": 1,
+        "maxDurability": 32,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "gold_ingot"
+        ]
+    },
+    "golden_pickaxe": {
+        "id": 285,
+        "displayName": "Golden Pickaxe",
+        "stackSize": 1,
+        "maxDurability": 32,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "gold_ingot"
+        ]
+    },
+    "golden_axe": {
+        "id": 286,
+        "displayName": "Golden Axe",
+        "stackSize": 1,
+        "maxDurability": 32,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "gold_ingot"
+        ]
+    },
+    "string": {
+        "id": 287,
+        "displayName": "String",
+        "stackSize": 64
+    },
+    "feather": {
+        "id": 288,
+        "displayName": "Feather",
+        "stackSize": 64
+    },
+    "gunpowder": {
+        "id": 289,
+        "displayName": "Gunpowder",
+        "stackSize": 64
+    },
+    "wooden_hoe": {
+        "id": 290,
+        "displayName": "Wooden Hoe",
+        "stackSize": 1,
+        "maxDurability": 59,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "oak_planks",
+            "spruce_planks",
+            "birch_planks",
+            "jungle_planks",
+            "acacia_planks",
+            "dark_oak_planks",
+            "crimson_planks",
+            "warped_planks"
+        ]
+    },
+    "stone_hoe": {
+        "id": 291,
+        "displayName": "Stone Hoe",
+        "stackSize": 1,
+        "maxDurability": 131,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "cobblestone",
+            "blackstone"
+        ]
+    },
+    "iron_hoe": {
+        "id": 292,
+        "displayName": "Iron Hoe",
+        "stackSize": 1,
+        "maxDurability": 250,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "iron_ingot"
+        ]
+    },
+    "diamond_hoe": {
+        "id": 293,
+        "displayName": "Diamond Hoe",
+        "stackSize": 1,
+        "maxDurability": 1561,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "diamond"
+        ]
+    },
+    "golden_hoe": {
+        "id": 294,
+        "displayName": "Golden Hoe",
+        "stackSize": 1,
+        "maxDurability": 32,
+        "enchantCategories": [
+            "digger",
+            "breakable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "gold_ingot"
+        ]
+    },
+    "wheat_seeds": {
+        "id": 295,
+        "displayName": "Seeds",
+        "stackSize": 64
+    },
+    "wheat": {
+        "id": 296,
+        "displayName": "Wheat",
+        "stackSize": 64
+    },
+    "bread": {
+        "id": 297,
+        "displayName": "Bread",
+        "stackSize": 64
+    },
+    "leather_helmet": {
+        "id": 298,
+        "displayName": "Leather Cap",
+        "stackSize": 1,
+        "maxDurability": 55,
+        "enchantCategories": [
+            "armor",
+            "armor_head",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "leather"
+        ]
+    },
+    "leather_chestplate": {
+        "id": 299,
+        "displayName": "Leather Tunic",
+        "stackSize": 1,
+        "maxDurability": 80,
+        "enchantCategories": [
+            "armor",
+            "armor_chest",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "leather"
+        ]
+    },
+    "leather_leggings": {
+        "id": 300,
+        "displayName": "Leather Pants",
+        "stackSize": 1,
+        "maxDurability": 75,
+        "enchantCategories": [
+            "armor",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "leather"
+        ]
+    },
+    "leather_boots": {
+        "id": 301,
+        "displayName": "Leather Boots",
+        "stackSize": 1,
+        "maxDurability": 65,
+        "enchantCategories": [
+            "armor",
+            "armor_feet",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "leather"
+        ]
+    },
+    "chainmail_helmet": {
+        "id": 302,
+        "displayName": "Chain Helmet",
+        "stackSize": 1,
+        "maxDurability": 165,
+        "enchantCategories": [
+            "armor",
+            "armor_head",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "iron_ingot"
+        ]
+    },
+    "chainmail_chestplate": {
+        "id": 303,
+        "displayName": "Chain Chestplate",
+        "stackSize": 1,
+        "maxDurability": 240,
+        "enchantCategories": [
+            "armor",
+            "armor_chest",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "iron_ingot"
+        ]
+    },
+    "chainmail_leggings": {
+        "id": 304,
+        "displayName": "Chain Leggings",
+        "stackSize": 1,
+        "maxDurability": 225,
+        "enchantCategories": [
+            "armor",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "iron_ingot"
+        ]
+    },
+    "chainmail_boots": {
+        "id": 305,
+        "displayName": "Chain Boots",
+        "stackSize": 1,
+        "maxDurability": 195,
+        "enchantCategories": [
+            "armor",
+            "armor_feet",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "iron_ingot"
+        ]
+    },
+    "iron_helmet": {
+        "id": 306,
+        "displayName": "Iron Helmet",
+        "stackSize": 1,
+        "maxDurability": 165,
+        "enchantCategories": [
+            "armor",
+            "armor_head",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "iron_ingot"
+        ]
+    },
+    "iron_chestplate": {
+        "id": 307,
+        "displayName": "Iron Chestplate",
+        "stackSize": 1,
+        "maxDurability": 240,
+        "enchantCategories": [
+            "armor",
+            "armor_chest",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "iron_ingot"
+        ]
+    },
+    "iron_leggings": {
+        "id": 308,
+        "displayName": "Iron Leggings",
+        "stackSize": 1,
+        "maxDurability": 225,
+        "enchantCategories": [
+            "armor",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "iron_ingot"
+        ]
+    },
+    "iron_boots": {
+        "id": 309,
+        "displayName": "Iron Boots",
+        "stackSize": 1,
+        "maxDurability": 195,
+        "enchantCategories": [
+            "armor",
+            "armor_feet",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "iron_ingot"
+        ]
+    },
+    "diamond_helmet": {
+        "id": 310,
+        "displayName": "Diamond Helmet",
+        "stackSize": 1,
+        "maxDurability": 363,
+        "enchantCategories": [
+            "armor",
+            "armor_head",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "diamond"
+        ]
+    },
+    "diamond_chestplate": {
+        "id": 311,
+        "displayName": "Diamond Chestplate",
+        "stackSize": 1,
+        "maxDurability": 528,
+        "enchantCategories": [
+            "armor",
+            "armor_chest",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "diamond"
+        ]
+    },
+    "diamond_leggings": {
+        "id": 312,
+        "displayName": "Diamond Leggings",
+        "stackSize": 1,
+        "maxDurability": 495,
+        "enchantCategories": [
+            "armor",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "diamond"
+        ]
+    },
+    "diamond_boots": {
+        "id": 313,
+        "displayName": "Diamond Boots",
+        "stackSize": 1,
+        "maxDurability": 429,
+        "enchantCategories": [
+            "armor",
+            "armor_feet",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "diamond"
+        ]
+    },
+    "golden_helmet": {
+        "id": 314,
+        "displayName": "Golden Helmet",
+        "stackSize": 1,
+        "maxDurability": 77,
+        "enchantCategories": [
+            "armor",
+            "armor_head",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "gold_ingot"
+        ]
+    },
+    "golden_chestplate": {
+        "id": 315,
+        "displayName": "Golden Chestplate",
+        "stackSize": 1,
+        "maxDurability": 112,
+        "enchantCategories": [
+            "armor",
+            "armor_chest",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "gold_ingot"
+        ]
+    },
+    "golden_leggings": {
+        "id": 316,
+        "displayName": "Golden Leggings",
+        "stackSize": 1,
+        "maxDurability": 105,
+        "enchantCategories": [
+            "armor",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "gold_ingot"
+        ]
+    },
+    "golden_boots": {
+        "id": 317,
+        "displayName": "Golden Boots",
+        "stackSize": 1,
+        "maxDurability": 91,
+        "enchantCategories": [
+            "armor",
+            "armor_feet",
+            "breakable",
+            "wearable",
+            "vanishable"
+        ],
+        "repairWith": [
+            "gold_ingot"
+        ]
+    },
+    "flint": {
+        "id": 318,
+        "displayName": "Flint",
+        "stackSize": 64
+    },
+    "porkchop": {
+        "id": 319,
+        "displayName": "Raw Porkchop",
+        "stackSize": 64
+    },
+    "cooked_porkchop": {
+        "id": 320,
+        "displayName": "Cooked Porkchop",
+        "stackSize": 64
+    },
+    "painting": {
+        "id": 321,
+        "displayName": "Painting",
+        "stackSize": 64
+    },
+    "golden_apple": {
+        "id": 322,
+        "displayName": "Golden Apple",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Golden Apple"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Enchanted Golden Apple"
+            }
+        ]
+    },
+    "sign": {
+        "id": 323,
+        "displayName": "Sign",
+        "stackSize": 16
+    },
+    "wooden_door": {
+        "id": 324,
+        "displayName": "Oak Door",
+        "stackSize": 64
+    },
+    "bucket": {
+        "id": 325,
+        "displayName": "Bucket",
+        "stackSize": 16
+    },
+    "water_bucket": {
+        "id": 326,
+        "displayName": "Water Bucket",
+        "stackSize": 1
+    },
+    "lava_bucket": {
+        "id": 327,
+        "displayName": "Lava Bucket",
+        "stackSize": 1
+    },
+    "minecart": {
+        "id": 328,
+        "displayName": "Minecart",
+        "stackSize": 1
+    },
+    "saddle": {
+        "id": 329,
+        "displayName": "Saddle",
+        "stackSize": 1
+    },
+    "iron_door": {
+        "id": 330,
+        "displayName": "Iron Door",
+        "stackSize": 64
+    },
+    "redstone": {
+        "id": 331,
+        "displayName": "Redstone",
+        "stackSize": 64
+    },
+    "snowball": {
+        "id": 332,
+        "displayName": "Snowball",
+        "stackSize": 16
+    },
+    "boat": {
+        "id": 333,
+        "displayName": "Boat",
+        "stackSize": 1
+    },
+    "leather": {
+        "id": 334,
+        "displayName": "Leather",
+        "stackSize": 64
+    },
+    "milk_bucket": {
+        "id": 335,
+        "displayName": "Milk",
+        "stackSize": 1
+    },
+    "brick": {
+        "id": 336,
+        "displayName": "Brick",
+        "stackSize": 64
+    },
+    "clay_ball": {
+        "id": 337,
+        "displayName": "Clay",
+        "stackSize": 64
+    },
+    "reeds": {
+        "id": 338,
+        "displayName": "Sugar Canes",
+        "stackSize": 64
+    },
+    "paper": {
+        "id": 339,
+        "displayName": "Paper",
+        "stackSize": 64
+    },
+    "book": {
+        "id": 340,
+        "displayName": "Book",
+        "stackSize": 64
+    },
+    "slime_ball": {
+        "id": 341,
+        "displayName": "Slimeball",
+        "stackSize": 64
+    },
+    "chest_minecart": {
+        "id": 342,
+        "displayName": "Minecart with Chest",
+        "stackSize": 1
+    },
+    "furnace_minecart": {
+        "id": 343,
+        "displayName": "Minecart with Furnace",
+        "stackSize": 1
+    },
+    "egg": {
+        "id": 344,
+        "displayName": "Egg",
+        "stackSize": 16
+    },
+    "compass": {
+        "id": 345,
+        "displayName": "Compass",
+        "stackSize": 64
+    },
+    "fishing_rod": {
+        "id": 346,
+        "displayName": "Fishing Rod",
+        "stackSize": 1,
+        "maxDurability": 64,
+        "enchantCategories": [
+            "breakable",
+            "fishing_rod",
+            "vanishable"
+        ]
+    },
+    "clock": {
+        "id": 347,
+        "displayName": "Clock",
+        "stackSize": 64
+    },
+    "glowstone_dust": {
+        "id": 348,
+        "displayName": "Glowstone Dust",
+        "stackSize": 64
+    },
+    "fish": {
+        "id": 349,
+        "displayName": "Fish",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Raw Fish"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Raw Salmon"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Clownfish"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Pufferfish"
+            }
+        ]
+    },
+    "cooked_fish": {
+        "id": 350,
+        "displayName": "Cooked Fish",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Cooked Fish"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Cooked Salmon"
+            }
+        ]
+    },
+    "dye": {
+        "id": 351,
+        "displayName": "Dye",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Ink Sac"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Rose Red"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Cactus Green"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Cocoa Beans"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Lapis Lazuli"
+            },
+            {
+                "metadata": 5,
+                "displayName": "Purple Dye"
+            },
+            {
+                "metadata": 6,
+                "displayName": "Cyan Dye"
+            },
+            {
+                "metadata": 7,
+                "displayName": "Light Gray Dye"
+            },
+            {
+                "metadata": 8,
+                "displayName": "Gray Dye"
+            },
+            {
+                "metadata": 9,
+                "displayName": "Pink Dye"
+            },
+            {
+                "metadata": 10,
+                "displayName": "Lime Dye"
+            },
+            {
+                "metadata": 11,
+                "displayName": "Dandelion Yellow"
+            },
+            {
+                "metadata": 12,
+                "displayName": "Light Blue Dye"
+            },
+            {
+                "metadata": 13,
+                "displayName": "Magenta Dye"
+            },
+            {
+                "metadata": 14,
+                "displayName": "Orange Dye"
+            },
+            {
+                "metadata": 15,
+                "displayName": "Bone Meal"
+            }
+        ]
+    },
+    "bone": {
+        "id": 352,
+        "displayName": "Bone",
+        "stackSize": 64
+    },
+    "sugar": {
+        "id": 353,
+        "displayName": "Sugar",
+        "stackSize": 64
+    },
+    "cake": {
+        "id": 354,
+        "displayName": "Cake",
+        "stackSize": 1
+    },
+    "bed": {
+        "id": 355,
+        "displayName": "Bed",
+        "stackSize": 1
+    },
+    "repeater": {
+        "id": 356,
+        "displayName": "Redstone Repeater",
+        "stackSize": 64
+    },
+    "cookie": {
+        "id": 357,
+        "displayName": "Cookie",
+        "stackSize": 64
+    },
+    "filled_map": {
+        "id": 358,
+        "displayName": "Map",
+        "stackSize": 64
+    },
+    "shears": {
+        "id": 359,
+        "displayName": "Shears",
+        "stackSize": 1,
+        "maxDurability": 238,
+        "enchantCategories": [
+            "breakable",
+            "vanishable"
+        ]
+    },
+    "melon": {
+        "id": 360,
+        "displayName": "Melon",
+        "stackSize": 64
+    },
+    "pumpkin_seeds": {
+        "id": 361,
+        "displayName": "Pumpkin Seeds",
+        "stackSize": 64
+    },
+    "melon_seeds": {
+        "id": 362,
+        "displayName": "Melon Seeds",
+        "stackSize": 64
+    },
+    "beef": {
+        "id": 363,
+        "displayName": "Raw Beef",
+        "stackSize": 64
+    },
+    "cooked_beef": {
+        "id": 364,
+        "displayName": "Steak",
+        "stackSize": 64
+    },
+    "chicken": {
+        "id": 365,
+        "displayName": "Raw Chicken",
+        "stackSize": 64
+    },
+    "cooked_chicken": {
+        "id": 366,
+        "displayName": "Cooked Chicken",
+        "stackSize": 64
+    },
+    "rotten_flesh": {
+        "id": 367,
+        "displayName": "Rotten Flesh",
+        "stackSize": 64
+    },
+    "ender_pearl": {
+        "id": 368,
+        "displayName": "Ender Pearl",
+        "stackSize": 16
+    },
+    "blaze_rod": {
+        "id": 369,
+        "displayName": "Blaze Rod",
+        "stackSize": 64
+    },
+    "ghast_tear": {
+        "id": 370,
+        "displayName": "Ghast Tear",
+        "stackSize": 64
+    },
+    "gold_nugget": {
+        "id": 371,
+        "displayName": "Gold Nugget",
+        "stackSize": 64
+    },
+    "nether_wart": {
+        "id": 372,
+        "displayName": "Nether Wart",
+        "stackSize": 64
+    },
+    "potion": {
+        "id": 373,
+        "displayName": "Potion",
+        "stackSize": 1
+    },
+    "glass_bottle": {
+        "id": 374,
+        "displayName": "Glass Bottle",
+        "stackSize": 64
+    },
+    "spider_eye": {
+        "id": 375,
+        "displayName": "Spider Eye",
+        "stackSize": 64
+    },
+    "fermented_spider_eye": {
+        "id": 376,
+        "displayName": "Fermented Spider Eye",
+        "stackSize": 64
+    },
+    "blaze_powder": {
+        "id": 377,
+        "displayName": "Blaze Powder",
+        "stackSize": 64
+    },
+    "magma_cream": {
+        "id": 378,
+        "displayName": "Magma Cream",
+        "stackSize": 64
+    },
+    "brewing_stand": {
+        "id": 379,
+        "displayName": "Brewing Stand",
+        "stackSize": 64
+    },
+    "cauldron": {
+        "id": 380,
+        "displayName": "Cauldron",
+        "stackSize": 64
+    },
+    "ender_eye": {
+        "id": 381,
+        "displayName": "Eye of Ender",
+        "stackSize": 64
+    },
+    "speckled_melon": {
+        "id": 382,
+        "displayName": "Glistering Melon",
+        "stackSize": 64
+    },
+    "spawn_egg": {
+        "id": 383,
+        "displayName": "Spawn Egg",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Spawn"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Spawn Dropped item"
+            },
+            {
+                "metadata": 7,
+                "displayName": "Spawn Thrown egg"
+            },
+            {
+                "metadata": 8,
+                "displayName": "Spawn Lead knot"
+            },
+            {
+                "metadata": 10,
+                "displayName": "Spawn Shot arrow"
+            },
+            {
+                "metadata": 11,
+                "displayName": "Spawn Thrown snowball"
+            },
+            {
+                "metadata": 12,
+                "displayName": "Spawn Ghast fireball"
+            },
+            {
+                "metadata": 13,
+                "displayName": "Spawn Blaze fireball"
+            },
+            {
+                "metadata": 14,
+                "displayName": "Spawn Thrown Ender Pearl"
+            },
+            {
+                "metadata": 15,
+                "displayName": "Spawn Thrown Eye of Ender"
+            },
+            {
+                "metadata": 16,
+                "displayName": "Spawn Thrown splash potion"
+            },
+            {
+                "metadata": 17,
+                "displayName": "Spawn Thrown Bottle o' Enchanting"
+            },
+            {
+                "metadata": 18,
+                "displayName": "Spawn Item Frame"
+            },
+            {
+                "metadata": 19,
+                "displayName": "Spawn Wither Skull"
+            },
+            {
+                "metadata": 20,
+                "displayName": "Spawn Primed TNT"
+            },
+            {
+                "metadata": 21,
+                "displayName": "Spawn Falling block"
+            },
+            {
+                "metadata": 21,
+                "displayName": "Spawn Falling block"
+            },
+            {
+                "metadata": 22,
+                "displayName": "Spawn Firework Rocket"
+            },
+            {
+                "metadata": 30,
+                "displayName": "Spawn Armor Stand"
+            },
+            {
+                "metadata": 41,
+                "displayName": "Spawn Boat"
+            },
+            {
+                "metadata": 42,
+                "displayName": "Spawn Minecart"
+            },
+            {
+                "metadata": 42,
+                "displayName": "Spawn Minecart"
+            },
+            {
+                "metadata": 42,
+                "displayName": "Spawn Minecart"
+            },
+            {
+                "metadata": 48,
+                "displayName": "Spawn Mob"
+            },
+            {
+                "metadata": 49,
+                "displayName": "Spawn Monster"
+            },
+            {
+                "metadata": 50,
+                "displayName": "Spawn Creeper"
+            },
+            {
+                "metadata": 51,
+                "displayName": "Spawn Skeleton"
+            },
+            {
+                "metadata": 52,
+                "displayName": "Spawn Spider"
+            },
+            {
+                "metadata": 53,
+                "displayName": "Spawn Giant"
+            },
+            {
+                "metadata": 54,
+                "displayName": "Spawn Zombie"
+            },
+            {
+                "metadata": 55,
+                "displayName": "Spawn Slime"
+            },
+            {
+                "metadata": 56,
+                "displayName": "Spawn Ghast"
+            },
+            {
+                "metadata": 57,
+                "displayName": "Spawn Zombie Pigman"
+            },
+            {
+                "metadata": 58,
+                "displayName": "Spawn Enderman"
+            },
+            {
+                "metadata": 59,
+                "displayName": "Spawn Cave Spider"
+            },
+            {
+                "metadata": 60,
+                "displayName": "Spawn Silverfish"
+            },
+            {
+                "metadata": 61,
+                "displayName": "Spawn Blaze"
+            },
+            {
+                "metadata": 62,
+                "displayName": "Spawn Magma Cube"
+            },
+            {
+                "metadata": 63,
+                "displayName": "Spawn Ender Dragon"
+            },
+            {
+                "metadata": 64,
+                "displayName": "Spawn Wither"
+            },
+            {
+                "metadata": 65,
+                "displayName": "Spawn Bat"
+            },
+            {
+                "metadata": 66,
+                "displayName": "Spawn Witch"
+            },
+            {
+                "metadata": 67,
+                "displayName": "Spawn Endermite"
+            },
+            {
+                "metadata": 68,
+                "displayName": "Spawn Guardian"
+            },
+            {
+                "metadata": 90,
+                "displayName": "Spawn Pig"
+            },
+            {
+                "metadata": 91,
+                "displayName": "Spawn Sheep"
+            },
+            {
+                "metadata": 92,
+                "displayName": "Spawn Cow"
+            },
+            {
+                "metadata": 93,
+                "displayName": "Spawn Chicken"
+            },
+            {
+                "metadata": 94,
+                "displayName": "Spawn Squid"
+            },
+            {
+                "metadata": 95,
+                "displayName": "Spawn Wolf"
+            },
+            {
+                "metadata": 96,
+                "displayName": "Spawn Mooshroom"
+            },
+            {
+                "metadata": 97,
+                "displayName": "Spawn Snow Golem"
+            },
+            {
+                "metadata": 98,
+                "displayName": "Spawn Ocelot"
+            },
+            {
+                "metadata": 99,
+                "displayName": "Spawn Iron Golem"
+            },
+            {
+                "metadata": 100,
+                "displayName": "Spawn Horse"
+            },
+            {
+                "metadata": 101,
+                "displayName": "Spawn Rabbit"
+            },
+            {
+                "metadata": 120,
+                "displayName": "Spawn Villager"
+            },
+            {
+                "metadata": 200,
+                "displayName": "Spawn Ender Crystal"
+            }
+        ]
+    },
+    "experience_bottle": {
+        "id": 384,
+        "displayName": "Bottle o' Enchanting",
+        "stackSize": 64
+    },
+    "fire_charge": {
+        "id": 385,
+        "displayName": "Fire Charge",
+        "stackSize": 64
+    },
+    "writable_book": {
+        "id": 386,
+        "displayName": "Book and Quill",
+        "stackSize": 1
+    },
+    "written_book": {
+        "id": 387,
+        "displayName": "Written Book",
+        "stackSize": 16
+    },
+    "emerald": {
+        "id": 388,
+        "displayName": "Emerald",
+        "stackSize": 64
+    },
+    "item_frame": {
+        "id": 389,
+        "displayName": "Item Frame",
+        "stackSize": 64
+    },
+    "flower_pot": {
+        "id": 390,
+        "displayName": "Flower Pot",
+        "stackSize": 64
+    },
+    "carrot": {
+        "id": 391,
+        "displayName": "Carrot",
+        "stackSize": 64
+    },
+    "potato": {
+        "id": 392,
+        "displayName": "Potato",
+        "stackSize": 64
+    },
+    "baked_potato": {
+        "id": 393,
+        "displayName": "Baked Potato",
+        "stackSize": 64
+    },
+    "poisonous_potato": {
+        "id": 394,
+        "displayName": "Poisonous Potato",
+        "stackSize": 64
+    },
+    "map": {
+        "id": 395,
+        "displayName": "Empty Map",
+        "stackSize": 64
+    },
+    "golden_carrot": {
+        "id": 396,
+        "displayName": "Golden Carrot",
+        "stackSize": 64
+    },
+    "skull": {
+        "id": 397,
+        "displayName": "Skull",
+        "stackSize": 64,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Skeleton Skull"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Wither Skeleton Skull"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Zombie Head"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Head"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Creeper Head"
+            }
+        ]
+    },
+    "carrot_on_a_stick": {
+        "id": 398,
+        "displayName": "Carrot on a Stick",
+        "stackSize": 1,
+        "maxDurability": 25,
+        "enchantCategories": [
+            "breakable",
+            "vanishable"
+        ]
+    },
+    "nether_star": {
+        "id": 399,
+        "displayName": "Nether Star",
+        "stackSize": 64
+    },
+    "pumpkin_pie": {
+        "id": 400,
+        "displayName": "Pumpkin Pie",
+        "stackSize": 64
+    },
+    "fireworks": {
+        "id": 401,
+        "displayName": "Firework Rocket",
+        "stackSize": 64
+    },
+    "firework_charge": {
+        "id": 402,
+        "displayName": "Firework Star",
+        "stackSize": 64
+    },
+    "enchanted_book": {
+        "id": 403,
+        "displayName": "Enchanted Book",
+        "stackSize": 1
+    },
+    "comparator": {
+        "id": 404,
+        "displayName": "Redstone Comparator",
+        "stackSize": 64
+    },
+    "netherbrick": {
+        "id": 405,
+        "displayName": "Nether Brick",
+        "stackSize": 64
+    },
+    "quartz": {
+        "id": 406,
+        "displayName": "Nether Quartz",
+        "stackSize": 64
+    },
+    "tnt_minecart": {
+        "id": 407,
+        "displayName": "Minecart with TNT",
+        "stackSize": 1
+    },
+    "hopper_minecart": {
+        "id": 408,
+        "displayName": "Minecart with Hopper",
+        "stackSize": 1
+    },
+    "prismarine_shard": {
+        "id": 409,
+        "displayName": "Prismarine Shard",
+        "stackSize": 64
+    },
+    "prismarine_crystals": {
+        "id": 410,
+        "displayName": "Prismarine Crystals",
+        "stackSize": 64
+    },
+    "rabbit": {
+        "id": 411,
+        "displayName": "Raw Rabbit",
+        "stackSize": 64
+    },
+    "cooked_rabbit": {
+        "id": 412,
+        "displayName": "Cooked Rabbit",
+        "stackSize": 64
+    },
+    "rabbit_stew": {
+        "id": 413,
+        "displayName": "Rabbit Stew",
+        "stackSize": 1
+    },
+    "rabbit_foot": {
+        "id": 414,
+        "displayName": "Rabbit's Foot",
+        "stackSize": 64
+    },
+    "rabbit_hide": {
+        "id": 415,
+        "displayName": "Rabbit Hide",
+        "stackSize": 64
+    },
+    "armor_stand": {
+        "id": 416,
+        "displayName": "Armor Stand",
+        "stackSize": 16
+    },
+    "iron_horse_armor": {
+        "id": 417,
+        "displayName": "Iron Horse Armor",
+        "stackSize": 1
+    },
+    "golden_horse_armor": {
+        "id": 418,
+        "displayName": "Gold Horse Armor",
+        "stackSize": 1
+    },
+    "diamond_horse_armor": {
+        "id": 419,
+        "displayName": "Diamond Horse Armor",
+        "stackSize": 1
+    },
+    "lead": {
+        "id": 420,
+        "displayName": "Lead",
+        "stackSize": 64
+    },
+    "name_tag": {
+        "id": 421,
+        "displayName": "Name Tag",
+        "stackSize": 64
+    },
+    "command_block_minecart": {
+        "id": 422,
+        "displayName": "Minecart with Command Block",
+        "stackSize": 1
+    },
+    "mutton": {
+        "id": 423,
+        "displayName": "Raw Mutton",
+        "stackSize": 64
+    },
+    "cooked_mutton": {
+        "id": 424,
+        "displayName": "Cooked Mutton",
+        "stackSize": 64
+    },
+    "banner": {
+        "id": 425,
+        "displayName": "Banner",
+        "stackSize": 16,
+        "variations": [
+            {
+                "metadata": 0,
+                "displayName": "Black Banner"
+            },
+            {
+                "metadata": 1,
+                "displayName": "Red Banner"
+            },
+            {
+                "metadata": 2,
+                "displayName": "Green Banner"
+            },
+            {
+                "metadata": 3,
+                "displayName": "Brown Banner"
+            },
+            {
+                "metadata": 4,
+                "displayName": "Blue Banner"
+            },
+            {
+                "metadata": 5,
+                "displayName": "Purple Banner"
+            },
+            {
+                "metadata": 6,
+                "displayName": "Cyan Banner"
+            },
+            {
+                "metadata": 7,
+                "displayName": "Light Gray Banner"
+            },
+            {
+                "metadata": 8,
+                "displayName": "Gray Banner"
+            },
+            {
+                "metadata": 9,
+                "displayName": "Pink Banner"
+            },
+            {
+                "metadata": 10,
+                "displayName": "Lime Banner"
+            },
+            {
+                "metadata": 11,
+                "displayName": "Yellow Banner"
+            },
+            {
+                "metadata": 12,
+                "displayName": "Light Blue Banner"
+            },
+            {
+                "metadata": 13,
+                "displayName": "Magenta Banner"
+            },
+            {
+                "metadata": 14,
+                "displayName": "Orange Banner"
+            },
+            {
+                "metadata": 15,
+                "displayName": "White Banner"
+            }
+        ]
+    },
+    "spruce_door": {
+        "id": 427,
+        "displayName": "Spruce Door",
+        "stackSize": 64
+    },
+    "birch_door": {
+        "id": 428,
+        "displayName": "Birch Door",
+        "stackSize": 64
+    },
+    "jungle_door": {
+        "id": 429,
+        "displayName": "Jungle Door",
+        "stackSize": 64
+    },
+    "acacia_door": {
+        "id": 430,
+        "displayName": "Acacia Door",
+        "stackSize": 64
+    },
+    "dark_oak_door": {
+        "id": 431,
+        "displayName": "Dark Oak Door",
+        "stackSize": 64
+    },
+    "record_13": {
+        "id": 2256,
+        "displayName": "13 Disc",
+        "stackSize": 1
+    },
+    "record_cat": {
+        "id": 2257,
+        "displayName": "Cat Disc",
+        "stackSize": 1
+    },
+    "record_blocks": {
+        "id": 2258,
+        "displayName": "Blocks Disc",
+        "stackSize": 1
+    },
+    "record_chirp": {
+        "id": 2259,
+        "displayName": "Chirp Disc",
+        "stackSize": 1
+    },
+    "record_far": {
+        "id": 2260,
+        "displayName": "Far Disc",
+        "stackSize": 1
+    },
+    "record_mall": {
+        "id": 2261,
+        "displayName": "Mall Disc",
+        "stackSize": 1
+    },
+    "record_mellohi": {
+        "id": 2262,
+        "displayName": "Mellohi Disc",
+        "stackSize": 1
+    },
+    "record_stal": {
+        "id": 2263,
+        "displayName": "Stal Disc",
+        "stackSize": 1
+    },
+    "record_strad": {
+        "id": 2264,
+        "displayName": "Strad Disc",
+        "stackSize": 1
+    },
+    "record_ward": {
+        "id": 2265,
+        "displayName": "Ward Disc",
+        "stackSize": 1
+    },
+    "record_11": {
+        "id": 2266,
+        "displayName": "11 Disc",
+        "stackSize": 1
+    },
+    "record_wait": {
+        "id": 2267,
+        "displayName": "Wait Disc",
+        "stackSize": 1
+    }
+}
