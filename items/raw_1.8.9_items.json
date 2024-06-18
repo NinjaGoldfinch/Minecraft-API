@@ -366,7 +366,7 @@
             },
             {
                 "metadata": 8,
-                "displayName": "Light gray Wool"
+                "displayName": "Light Gray Wool"
             },
             {
                 "metadata": 9,
@@ -3336,62 +3336,62 @@
     },
     "record_13": {
         "id": 2256,
-        "displayName": "13 Disc",
+        "displayName": "Music Disk",
         "stackSize": 1
     },
     "record_cat": {
         "id": 2257,
-        "displayName": "Cat Disc",
+        "displayName": "Music Disk",
         "stackSize": 1
     },
     "record_blocks": {
         "id": 2258,
-        "displayName": "Blocks Disc",
+        "displayName": "Music Disk",
         "stackSize": 1
     },
     "record_chirp": {
         "id": 2259,
-        "displayName": "Chirp Disc",
+        "displayName": "Music Disk",
         "stackSize": 1
     },
     "record_far": {
         "id": 2260,
-        "displayName": "Far Disc",
+        "displayName": "Music Disk",
         "stackSize": 1
     },
     "record_mall": {
         "id": 2261,
-        "displayName": "Mall Disc",
+        "displayName": "Music Disk",
         "stackSize": 1
     },
     "record_mellohi": {
         "id": 2262,
-        "displayName": "Mellohi Disc",
+        "displayName": "Music Disk",
         "stackSize": 1
     },
     "record_stal": {
         "id": 2263,
-        "displayName": "Stal Disc",
+        "displayName": "Music Disk",
         "stackSize": 1
     },
     "record_strad": {
         "id": 2264,
-        "displayName": "Strad Disc",
+        "displayName": "Music Disk",
         "stackSize": 1
     },
     "record_ward": {
         "id": 2265,
-        "displayName": "Ward Disc",
+        "displayName": "Music Disk",
         "stackSize": 1
     },
     "record_11": {
         "id": 2266,
-        "displayName": "11 Disc",
+        "displayName": "Music Disk",
         "stackSize": 1
     },
     "record_wait": {
         "id": 2267,
-        "displayName": "Wait Disc",
+        "displayName": "Music Disk",
         "stackSize": 1
     }
 }
